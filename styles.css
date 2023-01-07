@@ -1,0 +1,13 @@
+.reserve.-button {
+  width: 100%;
+  background-color: transparent;
+  border-color: 3 px white;
+}
+
+.reserve-button {
+  background-color: transparent;
+  width: 100%;
+  border: 3px solid white;
+  border-radius: 30px;
+}
+

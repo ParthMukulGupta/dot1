@@ -1,0 +1,16 @@
+#hero {
+  height: 100vh;
+  width: 100%;
+  color: rgb(51, 51, 51);
+  background: url("../../assets/img/header.png");
+}
+
+@media (min-width: 992px) {
+  #hero {
+    height: 100vh;
+    background: url("../../assets/img/header.png") center / cover no-repeat;
+    width: 100%;
+    color: rgb(51, 51, 51);
+  }
+}
+
